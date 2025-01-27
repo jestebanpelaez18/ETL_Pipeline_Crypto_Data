@@ -1,7 +1,7 @@
 # Acquiring and processing information of Crypto Currency Data From CoinGecko API
 
 This project compiles the Crypto Currency Data From Coin Gecko API. 
-The objective is to create a ETL Pipeline that acquire the relevant data from CoinGecko Public API and transform it for storage in multiple currencies, specifically GBP, and EUR, using exchange rate information provided in a CSV file, and loads it into a relational Database.
+The objective is to create a ETL Pipeline that acquire the relevant data from CoinGecko Public API and transform it for storage in multiple currencies, specifically GPB, and EUR, using exchange rate information provided in a CSV file, and loads it into a relational Database.
 
 ## Table of Contents
 
