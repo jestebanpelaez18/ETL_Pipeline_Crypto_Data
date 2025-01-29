@@ -69,8 +69,6 @@ git clone https://github.com/yourusername/crypto-data-analysis.git
 cd crypto-data-analysis
 ```
 
-## Installation
-
 ### 2. Install Dependencies
 ```bash
 pip install pandas numpy requests sqlite3 matplotlib seaborn ipython-sql prettytable
@@ -122,6 +120,10 @@ SELECT name, market_cap FROM Crypto_Data ORDER BY market_cap DESC LIMIT 10;
     - Top 10 Cryptos by Market Cap (Bar Plot)
     - Market Share Distribution (Pie Chart)
     - Price vs Market Cap Correlation (Scatter Plot)
+
+## Clarification
+
+You can see also the notebook from this repo, it is all comment, step by a step. I cleaned all the outputs, in that way everything looks more organize.
 
 ## License
 
